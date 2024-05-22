@@ -1,1 +1,2 @@
-# teensyproject
+# FinalProject
+Final Project
